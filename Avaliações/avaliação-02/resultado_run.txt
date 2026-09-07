@@ -1,0 +1,54 @@
+
+{
+  "nomeProjeto": "Plataforma de E-Commerce",
+  "funcionarios": [
+    {
+      "nome": "João Silva",
+      "dependentes": [
+        {
+          "nome": "Pedro Silva"
+        },
+        {
+          "nome": "Maria Silva"
+        }
+      ]
+    },
+    {
+      "nome": "Ana Souza",
+      "dependentes": [
+        {
+          "nome": "Lucas Souza"
+        }
+      ]
+    },
+    {
+      "nome": "Carlos Oliveira",
+      "dependentes": []
+    },
+    {
+      "nome": "Roberto Lima",
+      "dependentes": [
+        {
+          "nome": "Enzo Lima"
+        },
+        {
+          "nome": "Valentina Lima"
+        }
+      ]
+    },
+    {
+      "nome": "Juliana Costa",
+      "dependentes": [
+        {
+          "nome": "Beatriz Costa"
+        }
+      ]
+    },
+    {
+      "nome": "Fernando Alves",
+      "dependentes": []
+    }
+  ]
+}
+
+Exited.
